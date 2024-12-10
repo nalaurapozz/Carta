@@ -118,7 +118,7 @@ body {
   bottom: 0;
   right: 0;
   z-index: 300;
-  background-image: url('C:/Materiais Diversos/Carta/img/ribbon.png');
+  background-image: url('../img/heart.png');
   background-color: #dc91aa;
   border: 0.3rem solid #DB7093;
   background-size: 2.49rem;
