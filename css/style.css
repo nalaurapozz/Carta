@@ -194,12 +194,12 @@ body {
     font-size: 1.15rem;
   }
 }
-
+ 
 .scissors {
-  cursor: url('../img/canivete.png'), pointer;
+  cursor: url('../img/facao-fotor-20241210211857.png'), pointer;
 }
 .scissors:active {
-  cursor: url('../img/canivete.png'), pointer;
+  cursor: url('../img/facao-fotor-20241210212128.png'), pointer;
 }
 
 .cursor {
